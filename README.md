@@ -41,9 +41,3 @@ FoodFly is a full-stack restaurant website that allows users to browse a dynamic
 
 ![Screenshot 2025-07-03 131510](https://github.com/user-attachments/assets/8d407130-90fb-4a44-b1fa-13f9f1e4dcf1)
 
-## Author
-
-**Santoshi Lakkoju**  
-B.Tech CSE (AIML) – VNRVJIET    
-[LinkedIn](https://www.linkedin.com/in/santoshi-l-059baa267)
-
