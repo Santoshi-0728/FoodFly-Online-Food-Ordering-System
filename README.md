@@ -1,4 +1,4 @@
-# FoodFly – Online Food Ordering Website
+# Online Food Ordering Website
 
 FoodFly is a full-stack restaurant website that allows users to browse a dynamic menu, add items to a cart, place food orders, and send contact queries. The project demonstrates key web development concepts including frontend design, backend integration, API communication, and database management.
 
